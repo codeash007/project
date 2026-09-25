@@ -1,0 +1,7 @@
+{
+  "name": "HostelIQ - AI Hostel Operations & Student Experience Platform",
+  "description": "AI-Powered Predictive Hostel Management Platform featuring automated complaint classification, duplicate detection, priority estimation, and resolution analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
